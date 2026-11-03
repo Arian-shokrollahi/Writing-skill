@@ -4,7 +4,7 @@
 
 
 <p align=center>
-	<img src="../00-images/sleephabits.png" alt="img" width=600>
+	<img src="00-images/sleephabits.png" alt="img" width=600>
 </p> 
 
 I'm happy with my sleep habits because I get enough sleep, and I always have a lot of energy during the day.
