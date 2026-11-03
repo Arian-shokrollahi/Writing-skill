@@ -2,7 +2,7 @@
 ----
 
 <p align=center>
-	<img src="../00-images/dayonewritingmorningroutine.png" alt="img" width=600>
+	<img src="00-images/dayonewritingmorningroutine.png" alt="img" width=600>
 </p> 
 ```
 Every morning, my alarm clock wakes me up at 8:00 a.m. I usually stay in bed for about 10 minutes and check my phone to read my messages and the latest news.
